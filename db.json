@@ -1,5 +1,4 @@
-{
-    "message": "Ok",
+{"message": "Ok",
     "data": {
          "count": 4,
          "categories": [{"id": 1, "name": "Press Releases"}, {"id": 2, "name": "Stories & Voices"}],
